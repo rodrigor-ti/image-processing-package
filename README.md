@@ -2,8 +2,15 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	Processing:
+	- Histrogram matching
+	- Strutural Similarity
+	- Resizer iamge
+	Utils:
+	- Read image
+	- Save image
+	- Plot image
+	- Plot histogram
 
 ## Installation
 
@@ -21,7 +28,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Rodrigo Rodrigues
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
